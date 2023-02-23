@@ -1,3 +1,6 @@
+# while loop = um comando que irá executar um bloco de código enquanto a condição continuar verdadeira.
+
+
 #while 1==1:
     #print("Socorro! Estou preso em um loop!")
 

@@ -1,5 +1,8 @@
 
 #primeiro_nome = "Felipe"
+# um container para um valor, se comporta como o valor presente no container.
+
+
 #sobre_nome = "Daguerre"
 #nome_completo = primeiro_nome +" "+ sobre_nome
 #print ("Olá, ",nome_completo)

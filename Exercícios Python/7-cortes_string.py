@@ -1,3 +1,8 @@
+#cortes = cria uma "sub-string" ao extrair elementos de outra string.
+#       index[] ou cortes()
+#       [começo da string : final da string : quantos blocos serão pulados]
+
+
 nome = "Felipe Daguerre"
 
 #primeiro_nome = nome[:6]

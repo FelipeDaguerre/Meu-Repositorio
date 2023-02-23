@@ -1,3 +1,5 @@
+#if statements = um bloco de código que irá executar caso a condição seja verdadeira.
+
 idade = int(input("Qual a sua idade? "))
 
 if idade >= 100:

@@ -1,3 +1,5 @@
+# listas = usado para guardar vários valores em uma única variável.
+
 
 cardápio = ["Pizza", "Hamburger", "Sorvete", "Salgados"]
 

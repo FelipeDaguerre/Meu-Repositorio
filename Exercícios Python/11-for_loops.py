@@ -1,3 +1,5 @@
+# for loop = um comando que irá executar um bloco de código uma quantidade limitada de vezes.
+
 import time
 
 

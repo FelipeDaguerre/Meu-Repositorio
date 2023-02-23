@@ -1,3 +1,6 @@
+# Pede um valor ao usuario e o coloca na variável.
+
+
 nome = input("Qual o seu nome? ")
 idade = int(input("Qual a sua idade? "))
 altura = float(input("Qual a sua altura em centrimetros? "))

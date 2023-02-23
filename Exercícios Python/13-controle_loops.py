@@ -1,3 +1,9 @@
+# comandos para controle de loops = altera a execução do loop da sua sequencia normal.
+
+# break =           irá terminar o loop por completo
+# continue =        irá pular para a próxima iteração do loop
+# pass =            não faz nada, serve para ocupar espaço
+
 #while True:
     #nome = input("Digite seu nome: ")
     #if nome != "":
