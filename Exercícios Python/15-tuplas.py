@@ -1,4 +1,4 @@
-# tupla = uma coleção que ordenada e inalterável, usada para agrupar dados que tem ligação
+# tupla = uma coleção que ordenada e inalterável, usada para agrupar dados que tem ligação.
 
 
 estudante = ("Aline", 26, "feminino")
