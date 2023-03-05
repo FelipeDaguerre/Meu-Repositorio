@@ -1,4 +1,4 @@
-#dicionario = uma coleção única, não-ordenada de valores-chave pares únicos.
+#dicionario = uma coleção única, não-ordenada de valores-chave (Key-Value) pares únicos.
 
 capitais = {"Brasil": "Brasília", 
             "Índia":"Nova Delhi", 
