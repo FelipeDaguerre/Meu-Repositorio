@@ -11,3 +11,7 @@ print(somar(5,6,3))
 
 nome_completo = lambda primeiro_nome, sobre_nome: primeiro_nome+" "+sobre_nome
 print(nome_completo("Felipe","Daguerre"))
+
+conferir_maioridade = lambda idade:True if idade >= 18 else False
+
+print(conferir_maioridade(17))
