@@ -9,10 +9,10 @@ print(cidades_em_celcius)
 
 
 def checar_temperatura(valor):
-    if valor <= 25:
-        return "Está morno"
-    elif valor == 26:
-        return "Está quente la fora"
+    if valor <= 23:
+        return "Está um pouco frio la fora"
+    elif valor >= 24:
+        return "A temperatura está morna"
     
 clima_cidades = {chave:checar_temperatura(valor) for (chave,valor) in cidades_em_celcius.items()}
 
